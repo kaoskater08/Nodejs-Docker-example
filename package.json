@@ -9,6 +9,9 @@
   "author": "Eddie Hale",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "os": "^0.1.1",
+    "socket.io": "^2.1.1"
   }
 }
