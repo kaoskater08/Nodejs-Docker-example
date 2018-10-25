@@ -1,5 +1,5 @@
-# Use Node.js image with v7
-FROM node:7
+# Use Node.js image with v8
+FROM node:8
 
 # Set working directory in the container to /app
 WORKDIR /app
