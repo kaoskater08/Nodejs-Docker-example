@@ -1,0 +1,14 @@
+{
+  "name": "docker_test_app1",
+  "version": "1.0.0",
+  "description": "Test node.js app with Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddie Hale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
